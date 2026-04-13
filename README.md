@@ -1,5 +1,9 @@
 ![neoboxd](https://github.com/user-attachments/assets/57ee77ca-762e-402c-922f-d75a0fccc800)
 
+<p align="right">
+  <img src="./neoboxd.gif" width="400" alt="gaming gif" />
+</p>
+
 <h1 align="center">🎮 Hey, I'm Barsha</h1>
 <h3 align="center">UI/UX • Java • Python • React</h3>
 
@@ -7,9 +11,6 @@
   <i>idk why i am here</i>
 </p>
 
-<p align="right">
-  <img src="./neoboxd.gif" width="400" alt="gaming gif" />
-</p>
 
 ---
 

@@ -13,7 +13,7 @@
 
 ---
 
-## 🕹️ Player Info
+## 🕹️ meeee!!!!
 
 - 👾 Hi, I am Barsha
 - 🎨 Into UI/UX

@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./neoboxd.gif" width="320" alt="gaming vibe gif" />
+ <img src="./neoboxd.gif" width="420" alt="gaming gif" />
 </p>
 
 ---

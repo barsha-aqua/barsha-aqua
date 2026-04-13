@@ -7,8 +7,8 @@
   <i>idk why i am here</i>
 </p>
 
-<p align="center">
-  <img src="./neoboxd.gif" width="600" alt="gaming gif" />
+<p align="right">
+  <img src="./neoboxd.gif" width="400" alt="gaming gif" />
 </p>
 
 ---

@@ -48,17 +48,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barsha-aqua&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barsha-aqua&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barsha-aqua&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
 
 
